@@ -28,14 +28,14 @@ MCA Student | Aspiring Software Developer
 ### 🔹 Student Management System
 - Django-based CRUD app
 
-🏆 6. Achievements
+🏆 Achievements
 - 🏅 Completed IBM AI Course
 - 💡 Solved X+ LeetCode Problems
 
-📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharvin808&show_icons=true&theme=tokyonight)
 
-🔥 Streak Stats
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=sharvin808&theme=tokyonight)
 
 🌐 Connect with me
